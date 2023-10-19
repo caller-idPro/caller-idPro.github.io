@@ -1,0 +1,54 @@
+{
+    "name": "كاشف الارقام اليمنمية المهكر",
+    "short_name": "كاشف الاارقام اليمنمية المهكر",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "مميزات كاشف الاارقام المهكر: • حذف اعلانات الواجهة الرئيسية  • ميزة حذف جميع الارقام من كاشف الارقام اليمنية",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [{
+            "src": "assets/Favicons/favicon-57x57.png",
+            "sizes": "57x57",
+            "type": "image/png"
+        },
+        {
+            "src": "assets/Favicons/favicon-60x60.png",
+            "sizes": "60x60",
+            "type": "image/png"
+        },
+        {
+            "src": "assets/Favicons/favicon-64x64.png",
+            "sizes": "64x64",
+            "type": "image/png"
+        },
+        {
+            "src": "assets/Favicons/favicon-70x70.png",
+            "sizes": "70x70",
+            "type": "image/png"
+        },
+        {
+            "src": "assets/Favicons/favicon-72x72.png",
+            "sizes": "72x72",
+            "type": "image/png"
+        },
+        {
+            "src": "assets/Favicons/favicon-76x76.png",
+            "sizes": "76x76",
+            "type": "image/png"
+        },
+        {
+            "src": "assets/Favicons/favicon-180x180.png",
+            "sizes": "180x180",
+            "type": "image/png"
+        },
+        {
+            "src": "assets/Favicons/favicon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        }
+
+
+    ]
+}
